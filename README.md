@@ -97,19 +97,6 @@ Implemented GridSearchCV for:
 - `mushrooms.csv`: Dataset file with mushroom characteristics
 - `README.md`: This documentation file
 
-## Setup and Installation
-
-### Prerequisites
-```bash
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn
-```
-
-### Running the Project
-1. Clone this repository
-2. Ensure all required packages are installed
-3. Open `Mushroom Classification.ipynb` in Jupyter Notebook or JupyterLab
-4. Run all cells to reproduce the analysis
-
 ### Required Python Packages
 - pandas
 - numpy
@@ -123,7 +110,7 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 ├── Mushroom Classification.ipynb    # Main analysis notebook
 ├── mushrooms.csv                    # Dataset
 ├── README.md                       # Project documentation
-└── Mushroom Classification.pdf     # PDF version of notebook
+└── Mushroom Classification.pdf     # PDF report
 ```
 
 ## Key Insights
@@ -141,10 +128,10 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 - **Additional Datasets**: Incorporate more mushroom species and characteristics
 
 ## Author
-**Brian Nyakeri Barongo** - MSc Data Mining Student
+**Brian Nyakeri Barongo**
 
 ## License
-This project is for educational purposes as part of MSc Data Mining coursework.
+This project is for educational purposes.
 
 ---
 
